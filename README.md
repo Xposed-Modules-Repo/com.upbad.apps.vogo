@@ -6,7 +6,7 @@ This module has been tested working for the Google Voice version 2021.05.03.3721
 # A little bit details
 The "mark as read" option utilizes a hidden notification action provided by Google Voice, which is highly likely to be used by Android Auto, since it's inside a bundle named `android.car.EXTENSIONS`. It is *possible* to implement the module without relying on this hidden action, but there definitely will be more reverse engineering work to do.
 
-## Download
-[Github Release](https://github.com/zehuanli/Google-Voice-Mark-Read/releases/latest)
+## Links
+[Latest Release](https://github.com/Xposed-Modules-Repo/com.upbad.apps.vogo/releases/latest)
 
 [Xposed Repo](https://repo.xposed.info/module/com.upbad.apps.vogo)
