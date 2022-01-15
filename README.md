@@ -1,3 +1,5 @@
+*I don't update my apps too often. Please [let me know](https://github.com/zehuanli/Google-Voice-Mark-Read/issues) if this module stops working on the latest version, and I'll update it.*
+
 # Google Voice Mark Read
 Up till now Google Voice does not provide the basic feature to mark messages as read in the notifications. Tired of going into the app and clicking on each unread message every time, I made this Xposed module to add a "mark as read" option to the Google Voice message notifications.
 
